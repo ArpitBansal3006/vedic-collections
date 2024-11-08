@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vedic-collections/static/css/main.1dbf6498.css",
-    "main.js": "/vedic-collections/static/js/main.255dc45f.js",
-    "static/media/hero.jpg": "/vedic-collections/static/media/hero.220fb72d1f3bbb183229.jpg",
-    "static/media/Blessify.jpg": "/vedic-collections/static/media/Blessify.bc22d40ff694714a6ca3.jpg",
-    "index.html": "/vedic-collections/index.html",
-    "main.1dbf6498.css.map": "/vedic-collections/static/css/main.1dbf6498.css.map",
-    "main.255dc45f.js.map": "/vedic-collections/static/js/main.255dc45f.js.map"
+    "main.css": "/://ArpitBansal3006.github.io/vedic-collections/static/css/main.1dbf6498.css",
+    "main.js": "/://ArpitBansal3006.github.io/vedic-collections/static/js/main.8f375301.js",
+    "static/media/hero.jpg": "/://ArpitBansal3006.github.io/vedic-collections/static/media/hero.220fb72d1f3bbb183229.jpg",
+    "static/media/Blessify.jpg": "/://ArpitBansal3006.github.io/vedic-collections/static/media/Blessify.bc22d40ff694714a6ca3.jpg",
+    "index.html": "/://ArpitBansal3006.github.io/vedic-collections/index.html",
+    "main.1dbf6498.css.map": "/://ArpitBansal3006.github.io/vedic-collections/static/css/main.1dbf6498.css.map",
+    "main.8f375301.js.map": "/://ArpitBansal3006.github.io/vedic-collections/static/js/main.8f375301.js.map"
   },
   "entrypoints": [
     "static/css/main.1dbf6498.css",
-    "static/js/main.255dc45f.js"
+    "static/js/main.8f375301.js"
   ]
 }
