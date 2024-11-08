@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vedic-collections/static/css/main.1dbf6498.css",
+    "main.js": "/vedic-collections/static/js/main.255dc45f.js",
+    "static/media/hero.jpg": "/vedic-collections/static/media/hero.220fb72d1f3bbb183229.jpg",
+    "static/media/Blessify.jpg": "/vedic-collections/static/media/Blessify.bc22d40ff694714a6ca3.jpg",
+    "index.html": "/vedic-collections/index.html",
+    "main.1dbf6498.css.map": "/vedic-collections/static/css/main.1dbf6498.css.map",
+    "main.255dc45f.js.map": "/vedic-collections/static/js/main.255dc45f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbf6498.css",
+    "static/js/main.255dc45f.js"
+  ]
+}
