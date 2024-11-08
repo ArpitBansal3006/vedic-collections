@@ -1,4 +1,5 @@
 import heroImage from "../assets/images/hero.jpg";
+import { Link } from "react-router-dom";
 
 const pujaResources = [
   {
@@ -126,12 +127,12 @@ export default function Body() {
             Discover our curated collection of premium puja items crafted with
             care.
           </p>
-          <a
-            href="/products"
+          <Link
+            to="/products"
             className="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded transition-all duration-150"
           >
             Shop Now
-          </a>
+          </Link>
         </div>
       </section>
       <section className="min-h-screen bg-gray-200 py-16 px-4 sm:px-6 lg:px-8">
